@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Teleminora",
+    "city": "Tashkent",
+    "address": "Somewhere in Tashkent",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Chorvoq, Toshkent vil.",
+    "city": "Tashkent",
+    "address": "Somewhere in Tashkent",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Registan, Samarqand",
+    "city": "Samarqand",
+    "address": "Somewhere in Samarqand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Khiva, Jizzakh",
+    "city": "Jizzakh",
+    "address": "Somewhere in Jizzakh",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "History Museum of Uzbekistan, Tashkent",
+    "city": "Tashkent",
+    "address": "Somewhere in Tashkent",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Teshiktash, Surkhandarya",
+    "city": "Surkhandarya",
+    "address": "Somewhere in Surkhandarya",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Japanese garden, Tashkent",
+    "city": "Tashkent",
+    "address": "Somewhere in Tashkent",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Zomin, Jizzakh",
+    "city": "Jizzakh",
+    "address": "Somewhere in Jizzakh",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "Humo Arena, Tashkent",
+    "city": "Tashkent",
+    "address": "Somewhere in Tashkent",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Itchan-Kala, Khiva",
+    "city": "Jizzakh",
+    "address": "Somewhere in Jizzakh",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": false
+  }
+]
